@@ -1,2 +1,3 @@
 # simple-ipc
- A simple cross-platform IPC
+
+Simple cross-platform IPC (inter-process communication) example.
